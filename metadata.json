@@ -1,0 +1,6 @@
+{
+  "name": "Silsilah KeluargaKu",
+  "description": "Aplikasi web untuk mendokumentasikan, melacak, dan memvisualisasikan silsilah dan hubungan keluarga besar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
